@@ -6,3 +6,6 @@ https://github.com/end-4/dots-hyprland
 
 ### Dependencies
 Git, Stow, Lazyvim
+
+
+For stow: go into dotfiles fodler and run the command: stow --adpot .
